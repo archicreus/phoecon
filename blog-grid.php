@@ -11,7 +11,7 @@ include("header.php");
 						<span class="text-white">Our blog</span>
 						<h1 class="text-capitalize mb-4 text-lg">Blog articles</h1>
 						<ul class="list-inline">
-							<li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
+							<li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
 							<li class="list-inline-item"><span class="text-white">/</span></li>
 							<li class="list-inline-item"><a href="#" class="text-white-50">Our blog</a></li>
 						</ul>
@@ -35,10 +35,10 @@ include("header.php");
 								<span class="text-black text-capitalize mr-3"><i class="ti-time mr-1"></i> 28th January</span>
 							</div>
 
-							<h3 class="mt-3 mb-3"><a href="blog-single.html">Improve design with typography?</a></h3>
+							<h3 class="mt-3 mb-3"><a href="blog-single.php">Improve design with typography?</a></h3>
 							<p class="mb-4">Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</p>
 
-							<a href="blog-single.html" class="btn btn-small btn-main btn-round-full">Learn More</a>
+							<a href="blog-single.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -54,10 +54,10 @@ include("header.php");
 								<span class="text-black text-capitalize mr-3"><i class="ti-time mr-1"></i> 28th January</span>
 							</div>
 
-							<h3 class="mt-3 mb-3"><a href="blog-single.html">Interactivity connect consumer</a></h3>
+							<h3 class="mt-3 mb-3"><a href="blog-single.php">Interactivity connect consumer</a></h3>
 							<p class="mb-4">Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</p>
 
-							<a href="blog-single.html" class="btn btn-small btn-main btn-round-full">Learn More</a>
+							<a href="blog-single.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -73,10 +73,10 @@ include("header.php");
 								<span class="text-black text-capitalize mr-3"><i class="ti-time mr-1"></i> 28th January</span>
 							</div>
 
-							<h3 class="mt-3 mb-3"><a href="blog-single.html">Marketing Strategy to bring more affect</a></h3>
+							<h3 class="mt-3 mb-3"><a href="blog-single.php">Marketing Strategy to bring more affect</a></h3>
 							<p class="mb-4">Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</p>
 
-							<a href="blog-single.html" class="btn btn-small btn-main btn-round-full">Learn More</a>
+							<a href="blog-single.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
 						</div>
 					</div>
 				</div>
@@ -91,10 +91,10 @@ include("header.php");
 								<span class="text-black text-capitalize mr-3"><i class="ti-time mr-1"></i> 28th January</span>
 							</div>
 
-							<h3 class="mt-3 mb-3"><a href="blog-single.html">Marketing Strategy to bring more affect</a></h3>
+							<h3 class="mt-3 mb-3"><a href="blog-single.php">Marketing Strategy to bring more affect</a></h3>
 							<p class="mb-4">Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</p>
 
-							<a href="blog-single.html" class="btn btn-small btn-main btn-round-full">Learn More</a>
+							<a href="blog-single.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
 						</div>
 					</div>
 				</div>

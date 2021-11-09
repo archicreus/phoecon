@@ -11,7 +11,7 @@ include("header.php");
 						<span class="text-white">News details</span>
 						<h1 class="text-capitalize mb-4 text-lg">Blog Single</h1>
 						<ul class="list-inline">
-							<li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
+							<li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
 							<li class="list-inline-item"><span class="text-white">/</span></li>
 							<li class="list-inline-item"><a href="#" class="text-white-50">News details</a></li>
 						</ul>
@@ -39,7 +39,7 @@ include("header.php");
 										<span class="text-black text-capitalize mr-3"><i class="ti-time mr-1"></i> 28th January</span>
 									</div>
 
-									<h2 class="mt-3 mb-4"><a href="blog-single.html">Improve design with typography?</a></h2>
+									<h2 class="mt-3 mb-4"><a href="blog-single.php">Improve design with typography?</a></h2>
 									<p class="lead mb-4">Non illo quas blanditiis repellendus laboriosam minima animi. Consectetur accusantium pariatur repudiandae!</p>
 
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus natus, consectetur? Illum libero vel nihil nisi quae, voluptatem, sapiente necessitatibus distinctio voluptates, iusto qui. Laboriosam autem, nam voluptate in beatae.</p>

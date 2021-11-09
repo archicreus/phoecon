@@ -9,7 +9,8 @@ include("header.php");
 				<div class="col-md-12">
 					<div class="block text-center">
 						<span class="text-white">Contactez nous</span>
-						<h1 class="text-capitalize mb-4 text-lg">Get in Touch</h1>
+						<h1 class="text-capitalize mb-4 text-lg">
+							Entrer en contact</h1>
 						<ul class="list-inline">
 							<li class="list-inline-item"><a href="index.php" class="text-white">Acceuil</a></li>
 							<li class="list-inline-item"><span class="text-white">/</span></li>
@@ -57,13 +58,13 @@ include("header.php");
 
 						<ul class="address-block list-unstyled">
 							<li>
-								<i class="ti-direction mr-3"></i>North Main Street,Brooklyn Australia
+								<i class="ti-direction mr-3"></i>Djidjole, Lomé, Togo
 							</li>
 							<li>
-								<i class="ti-email mr-3"></i>Email: contact@mail.com
+								<i class="ti-email mr-3"></i>Email: edanigue6@gmail.com
 							</li>
 							<li>
-								<i class="ti-mobile mr-3"></i>Phone:+228 98 87 56 76
+								<i class="ti-mobile mr-3"></i>Phone:+228 98 93588879
 							</li>
 						</ul>
 
@@ -75,7 +76,7 @@ include("header.php");
 								<a href="https://twitter.com/EDanigue"><i class="fab fa-twitter"></i></a>
 							</li>
 							<li class="list-inline-item">
-								<a href="#"><i class="fab fa-linkedin-in"></i></a>
+								<a href="https://www.linkedin.com/in/e-elie-danigue-b2859b218/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BUARWRS3kT3CrbPxs6sOAkg%3D%3D"><i class="fab fa-linkedin-in"></i></a>
 							</li>
 						</ul>
 					</div>
@@ -84,9 +85,9 @@ include("header.php");
 		</div>
 	</section>
 
-	<div class="google-map">
+	<!-- <div class="google-map">
 		<div id="map"></div>
-	</div>
-<?php
-include 'footer.php';
-?>
+	</div> -->
+	<?php
+	include 'footer.php';
+	?>

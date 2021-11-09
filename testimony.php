@@ -1,4 +1,4 @@
-	<section class="section testimonial">
+	<!-- <section class="section testimonial">
 	    <div class="container">
 	        <div class="row">
 	            <div class="col-lg-7 ">
@@ -62,4 +62,4 @@
 	            </div>
 	        </div>
 	    </div>
-	</section>
+	</section> -->

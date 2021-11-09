@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="megakit,business,company,agency,multipurpose,modern,bootstrap4">
 
-    <meta name="author" content="themefisher.com">
+    <meta name="author" content="larchitecte_creus">
 
     <title>Phoecon</title>
 
@@ -66,15 +66,18 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="index.php">Accueil <span class="sr-only">(current)</span></a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">A propos</a>
-                            <ul class="dropdown-menu" aria-labelledby="dropdown03">
-                                <li><a class="dropdown-item" href="about.php">Notre compagnie</a></li>
-                                <li><a class="dropdown-item" href="pricing.php">Tarifs</a></li>
-                            </ul>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="about.php">A propos</a>
                         </li>
+                        <!-- <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="about.php" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">A propos</a> -->
+                            <!-- <ul class="dropdown-menu" aria-labelledby="dropdown03">
+                                <li><a class="dropdown-item" href="about.php">Notre compagnie</a></li>
+                                <li><a class="dropdown-item" href="pricing.php">Tarifs</a></li> 
+                            </ul> -->
+                        <!-- </li>-->
                         <li class="nav-item"><a class="nav-link" href="service.php">Services</a></li>
-<!--                         <li class="nav-item"><a class="nav-link" href="project.php">Portfolio</a></li>
+                        <!--                         <li class="nav-item"><a class="nav-link" href="project.php">Portfolio</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog</a>
                             <ul class="dropdown-menu" aria-labelledby="dropdown05">
@@ -84,11 +87,12 @@
                                 <li><a class="dropdown-item" href="blog-single.php">Blog Single</a></li>
                             </ul>
                         </li>
- -->                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+ -->
+                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     </ul>
 
                     <form class="form-lg-inline my-2 my-md-0 ml-lg-4 text-center">
-                        <a href="contact.php" class="btn btn-solid-border btn-round-full">Get a Quote</a>
+                        <a href="contact.php" class="btn btn-solid-border btn-round-full">Obtenez un devis</a>
                     </form>
                 </div>
             </div>

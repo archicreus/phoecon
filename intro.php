@@ -13,21 +13,31 @@
                 <div class="intro-item mb-5 mb-lg-0">
                     <i class="ti-desktop color-one"></i>
                     <h4 class="mt-4 mb-3">Design moderne et réactif</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.</p>
+                    <p>
+                        Que vous créiez votre nouveau site Web à partir de zéro ou
+                        que vous le mettiez à jour, l'expérience utilisateur (UX) et
+                        la convivialité devraient être au premier plan de vos préoccupations.
+                    </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="intro-item mb-5 mb-lg-0">
                     <i class="ti-medall color-one"></i>
                     <h4 class="mt-4 mb-3">Entreprise licenciée récompensée</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.</p>
+                    <p>
+
+                    </p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
                 <div class="intro-item">
                     <i class="ti-layers-alt color-one"></i>
                     <h4 class="mt-4 mb-3">Créez votre site Web de manière professionnelle</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.</p>
+                    <p>
+                        Cela est nécessaire pour avoir une bonne visibilité.
+                        Elle vous permet d'avoir une interaction avec vos clients et prospects.
+                        Le site web, une source intarissable d’informations pour votre entreprise
+                    </p>
                 </div>
             </div>
         </div>
