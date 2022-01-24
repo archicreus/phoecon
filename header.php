@@ -100,3 +100,7 @@
     </header>
 
     <!-- Header Close -->
+
+<!--google AdSense-->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7610301843803440"
+     crossorigin="anonymous"></script>
