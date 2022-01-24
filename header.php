@@ -104,3 +104,16 @@
 <!--google AdSense-->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7610301843803440"
      crossorigin="anonymous"></script>
+
+
+
+<!-- firstblock -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7610301843803440"
+     data-ad-slot="1258158079"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
